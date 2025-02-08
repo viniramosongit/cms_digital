@@ -1,6 +1,6 @@
 # 📝 CMS Digital - Lightweight Headless CMS with Intelligent SEO
 
-Welcome to **CMS Digital**, a lightweight and efficient headless CMS designed for creating and managing posts with a strong focus on search engine optimization (SEO) and AI-powered content analysis. This repository follows best development practices to serve as a showcase for recruiters.
+Welcome to **CMS Digital**, a lightweight and efficient headless CMS designed for creating and managing posts with a strong focus on search engine optimization (SEO) and AI-powered content analysis.
 
 ## 🚀 Technologies Used
 
